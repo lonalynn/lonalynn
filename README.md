@@ -12,7 +12,7 @@ Much of my work is hosted elsewhere on the interwebs. You can find some of the p
 
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · Contact Me · · ୨୧‿︵‿︵‿︵ ˚₊
 
-Message me on LinkedIn: [Link](https://www.linkedin.com/in/lonavdlin/)
+Message me on LinkedIn: [Link](https://www.linkedin.com/in/lonavdlin/)<br>
 Email me: [Link](mailto:lonavdlin@gmail.com)
 
 <!--
