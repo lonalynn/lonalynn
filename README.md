@@ -12,7 +12,8 @@ Much of my work is hosted elsewhere on the interwebs. You can find some of the p
 
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · Contact Me · · ୨୧‿︵‿︵‿︵ ˚₊
 
-Messaging me on LinkedIn is the quickest way to reach me! [Link](https://www.linkedin.com/in/lonavdlin/)
+Message me on LinkedIn: [Link](https://www.linkedin.com/in/lonavdlin/)
+Email me: [Link](mailto:lonavdlin@gmail.com)
 
 <!--
 **lonalynn/lonalynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
