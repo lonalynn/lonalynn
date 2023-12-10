@@ -4,7 +4,7 @@ My name is Ilona (Lona) van der Linden (pronouns she/her/hers). I'm a San Diego 
 
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · My Work · · ୨୧‿︵‿︵‿︵ ˚₊
 
-Much of my work is hosted elsewhere on the interwebs. You can find some of the public repositories I've contributed to below. This does not encompass all of the work that I have done in my career; feel free to contact me if you are curious about other samples of my work.
+Much of my work is hosted elsewhere on the interwebs. You can find some of the public repositories I've contributed to below. Feel free to contact me if you are curious about other samples of my work.
 
 [My work at the UWyo MALLET Lab](https://github.com/uwyo-mallet/ML-Task-Comparison)<br>
 [My Senior Capstone, Simmer the Toads](https://github.com/jarulsamy/SimmerTheToads)<br>
