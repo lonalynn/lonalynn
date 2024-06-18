@@ -11,7 +11,7 @@ Much of my work is hosted elsewhere on the interwebs. You can find some of the p
 My work on the [SMAR Project](https://github.com/scuhci/sar-frontend) <br>
 My work at the [UWyo MALLET Lab](https://github.com/uwyo-mallet/ML-Task-Comparison)<br>
 My Senior Capstone, [Simmer the Toads](https://github.com/jarulsamy/SimmerTheToads)<br>
-[SSC/CEDAR Research Lab Gitlab](https://gitlab.com/UWyo-SSC)
+[SSC/CEDAR Research Lab Gitlab](https://gitlab.com/UWyo-SSC) <br>
 [My Data Visualization Final Project](https://github.com/KikiSpace/csen396bfinal_sustainability) - not a professional project, but one I'm quite proud of!
 
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · Contact Me · · ୨୧‿︵‿︵‿︵ ˚₊
