@@ -6,13 +6,15 @@ My name is Ilona (Lona) van der Linden (pronouns she/her/hers). I'm a San Diego 
 
 I am actively contributing to the [SCU HCI Github](https://github.com/scuhci) as part of my work with the HCI Lab.<br>
 
-Much of my work is hosted elsewhere on the interwebs. You can find some of the public repositories I've contributed to below. Feel free to contact me if you are curious about other samples of my work!
+Much of my work is hosted elsewhere on the interwebs. You can find some of the public repositories I've contributed to below*. Feel free to contact me if you are curious about other samples of my work!
 
 My work on the [SMAR Project](https://github.com/scuhci/sar-frontend) <br>
 My work at the [UWyo MALLET Lab](https://github.com/uwyo-mallet/ML-Task-Comparison)<br>
 My Senior Capstone, [Simmer the Toads](https://github.com/jarulsamy/SimmerTheToads)<br>
 [SSC/CEDAR Research Lab Gitlab](https://gitlab.com/UWyo-SSC) <br>
 [My Data Visualization Final Project](https://github.com/KikiSpace/csen396bfinal_sustainability) - not a professional project, but one I'm quite proud of!
+
+**I do not manage these repositories. These links may become inactive/outdated. I periodically check them to verify, but please let me know if you are unable to access!*
 
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · Contact Me · · ୨୧‿︵‿︵‿︵ ˚₊
 
