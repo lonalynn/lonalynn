@@ -8,11 +8,11 @@ I am actively contributing to the [SCU HCI Github](https://github.com/scuhci) as
 
 Much of my work is hosted elsewhere on the interwebs. You can find some of the public repositories I've contributed to below. Feel free to contact me if you are curious about other samples of my work!
 
-My work on the [SMAR Project](https://github.com/scuhci/sar-frontend) <br> (Full-stack + UX design)
-My work at the [UWyo MALLET Lab](https://github.com/uwyo-mallet/ML-Task-Comparison)<br> (ML)
-My Senior Capstone, [Simmer the Toads](https://github.com/jarulsamy/SimmerTheToads)<br> (ML + UX design)
+My work on the [SMAR Project](https://github.com/scuhci/sar-frontend) *(Full-stack + UX design)* <br> 
+My work at the [UWyo MALLET Lab](https://github.com/uwyo-mallet/ML-Task-Comparison) *(ML)* <br>
+My Senior Capstone, [Simmer the Toads](https://github.com/jarulsamy/SimmerTheToads) *(ML + UX design)* <br> 
 [SSC/CEDAR Research Lab Gitlab](https://gitlab.com/UWyo-SSC) <br>
-[My Data Visualization Final Project](https://github.com/KikiSpace/csen396bfinal_sustainability) - not a professional project, but one I'm quite proud of! (UX design + data visualization)
+[My Data Visualization Final Project](https://github.com/KikiSpace/csen396bfinal_sustainability) *(UX design + data visualization)*
 
 *I do not manage these repositories, so I cannot vouch for their maintenance. Happy to share updated samples of my work, please contact me!*
 
