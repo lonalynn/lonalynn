@@ -1,12 +1,14 @@
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · About Me · · ୨୧‿︵‿︵‿︵ ˚₊
 
-My name is Ilona (Lona) van der Linden (pronouns she/her/hers). I'm a San Diego native completing my graduate studies in Computer Science at Santa Clara University. I received my bachelors of Computer Science from the University of Wyoming. I love pilates, making good coffee, cooking, and collecting vinyls.
+My name is Ilona (Lona) van der Linden (pronouns she/her/hers)! I received my masters in Computer Science from Santa Clara University, and my bachelors of Computer Science from the University of Wyoming. My hometown is San Diego, CA. I love pilates, making good coffee, cooking, and collecting vinyls.
+
+I'm currently working as the Lead Automation Engineer @ Keywords Studios.
 
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · My Work · · ୨୧‿︵‿︵‿︵ ˚₊
 
 I am actively contributing to the [SCU HCI Github](https://github.com/scuhci) as part of my work with the HCI Lab.<br>
 
-Much of my work is hosted elsewhere on the interwebs. You can find some of the public repositories I've contributed to below. Feel free to contact me if you are curious about other samples of my work!
+Much of my work is hosted elsewhere on the internet, or in private repositories. You can find some of the public repositories I've contributed to below. Feel free to contact me if you are curious about other samples of my work!
 
 My work on the [SMAR Project](https://github.com/scuhci/sar-frontend) *(Full-stack + UX design)* <br> 
 My work at the [UWyo MALLET Lab](https://github.com/uwyo-mallet/ML-Task-Comparison) *(ML)* <br>
