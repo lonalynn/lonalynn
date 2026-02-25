@@ -16,7 +16,7 @@ My Senior Capstone, [Simmer the Toads](https://github.com/jarulsamy/SimmerTheToa
 [SSC/CEDAR Research Lab Gitlab](https://gitlab.com/UWyo-SSC) <br>
 [My Data Visualization Final Project](https://github.com/KikiSpace/csen396bfinal_sustainability) *(UX design + data visualization)*
 
-*I do not manage these repositories, so I cannot vouch for their maintenance. Happy to share updated samples of my work, please contact me!*
+*Disclaimer: I do not manage these repositories, so I cannot vouch for their maintenance.*
 
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · Contact Me · · ୨୧‿︵‿︵‿︵ ˚₊
 
