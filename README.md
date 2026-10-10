@@ -1,15 +1,15 @@
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · About Me · · ୨୧‿︵‿︵‿︵ ˚₊
 
-My name is Ilona (Lona) van der Linden (pronouns she/her/hers)! I received my masters in Computer Science from Santa Clara University, and my bachelors of Computer Science from the University of Wyoming. My hometown is San Diego, CA. I love pilates, making good coffee, cooking, and collecting vinyls.
+My name is Ilona (Lona) van der Linden (pronouns she/her/hers)! I received my masters in Computer Science from Santa Clara University, and my bachelors of Computer Science from the University of Wyoming. My hometown is San Diego, CA. I love pilates, making good coffee, cooking, and collecting vinyls. Previously, I've worked as the Lead Automation Engineer @ Keywords Studios.
 
-I'm currently working as the Lead Automation Engineer @ Keywords Studios.
+I'm currently working as a doctoral researcher @ the DRACO Lab.
 
 ### ₊˚ ‿︵‿︵‿︵୨୧ · · My Work · · ୨୧‿︵‿︵‿︵ ˚₊
 
-I am actively contributing to the [SCU HCI Github](https://github.com/scuhci) as part of my work with the HCI Lab.<br>
-
 Much of my work is hosted elsewhere on the internet, or in private repositories. You can find some of the public repositories I've contributed to below. Feel free to contact me if you are curious about other samples of my work!
 
+My paper, Generating the Modal Worker, has source code available [here](https://github.com/scuhci/genai-bias).
+The [SCU HCI Github](https://github.com/scuhci) -- which hosts much of my masters' work.<br>
 My work on the [SMAR Project](https://github.com/scuhci/sar-frontend) *(Full-stack + UX design)* <br> 
 My work at the [UWyo MALLET Lab](https://github.com/uwyo-mallet/ML-Task-Comparison) *(ML)* <br>
 My Senior Capstone, [Simmer the Toads](https://github.com/jarulsamy/SimmerTheToads) *(ML + UX design)* <br> 
