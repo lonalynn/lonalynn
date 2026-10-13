@@ -8,13 +8,13 @@ I'm currently working as a doctoral researcher @ the DRACO Lab.
 
 Much of my work is hosted elsewhere on the internet, or in private repositories. You can find some of the public repositories I've contributed to below. Feel free to contact me if you are curious about other samples of my work!
 
-My paper, Generating the Modal Worker, has source code available [here](https://github.com/scuhci/genai-bias).
-The [SCU HCI Github](https://github.com/scuhci) -- which hosts much of my masters' work.<br>
+My FAccT 2026 paper, [Generating the Modal Worker](https://arxiv.org/abs/2510.21011), has source code available [here](https://github.com/scuhci/genai-bias). <br>
+The [SCU HCI Github](https://github.com/scuhci) -- which hosts much of my masters' work. <br>
 My work on the [SMAR Project](https://github.com/scuhci/sar-frontend) *(Full-stack + UX design)* <br> 
 My work at the [UWyo MALLET Lab](https://github.com/uwyo-mallet/ML-Task-Comparison) *(ML)* <br>
-My Senior Capstone, [Simmer the Toads](https://github.com/jarulsamy/SimmerTheToads) *(ML + UX design)* <br> 
+My Undergraduate Senior Capstone, [Simmer the Toads](https://github.com/jarulsamy/SimmerTheToads) *(ML + UX design)* <br> 
 [SSC/CEDAR Research Lab Gitlab](https://gitlab.com/UWyo-SSC) <br>
-[My Data Visualization Final Project](https://github.com/KikiSpace/csen396bfinal_sustainability) *(UX design + data visualization)*
+[My Data Visualization Final Project](https://github.com/KikiSpace/csen396bfinal_sustainability) *(UX design + data visualization)* 
 
 *Disclaimer: I do not manage these repositories, so I cannot vouch for their maintenance.*
 
